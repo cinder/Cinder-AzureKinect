@@ -2,6 +2,9 @@
 
 CinderBlock for Azure Kinect (K4A) camera integration with Cinder. Support for the Azure Kinect, the [Orbbec Femto Bolt](https://www.orbbec.com/products/tof-camera/femto-bolt/) and the [Orbbec Femto Mega](https://www.orbbec.com/products/tof-camera/femto-mega/) (both untested).
 
+<img width="578" height="509" alt="image" src="https://github.com/user-attachments/assets/a7afe540-59da-400e-9f8f-68d69772d1cb" />
+
+
 ## Requirements
 
 - [Azure Kinect SDK v1.4.1](https://download.microsoft.com/download/3/d/6/3d6d9e99-a251-4cf3-8c6a-8e108e960b4b/Azure%20Kinect%20SDK%201.4.1.exe)
